@@ -17,6 +17,13 @@ body {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
+
+  &.home-page {
+    background-image: var(--background-image-home);
+  }
+  &.exhibitions-page {
+    background-image: var(--background-image-exhibits);
+  }
 }
 
 .cf:before,

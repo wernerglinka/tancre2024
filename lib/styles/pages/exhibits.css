@@ -1,0 +1,46 @@
+#exhibit-intro {
+  & h1 {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    white-space: nowrap;
+    border: 0;
+  }
+  
+  & img {
+    display: block;
+    max-width: 30rem;
+    margin-bottom: 2rem;
+  }
+}
+
+.exhibit-list {
+  & h2 {
+    background: rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(5px);
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    & > li {
+      margin-bottom: 2rem;
+    }
+
+    & ul {
+      margin-left: 2rem;
+    }
+
+    
+
+    & p {
+      margin: 0;
+    }
+  }
+}

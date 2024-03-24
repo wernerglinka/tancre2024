@@ -6,10 +6,10 @@
 @import "./components/base/base.css";
 @import "./components/base/footer.css";
 @import "./components/base/wrapper.css";
-@import "./components/base/prism-line-numbers.css";
-@import "./components/base/prism.css";
+@import "./components/modal.css";
 
 @import "./pages/home.css";
+@import "./pages/exhibits.css";
 
 /* Section styles */
 @import "./components/image.css";

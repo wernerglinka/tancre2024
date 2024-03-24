@@ -9,6 +9,7 @@ body {
   --logo-size: clamp(4rem, 1.0000rem + 7.5000vw, 10rem);
 
   --background-image-home: url(/assets/images/bach3.jpg);
+  --background-image-exhibits: url(/assets/images/bach2.jpg);
 
   /**
     * Default padding for containers and sections
