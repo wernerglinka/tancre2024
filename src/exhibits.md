@@ -1,6 +1,6 @@
 --- 
 layout: "sections.njk"
-draft: true
+draft: false
 navLabel: "exhibits"
 bodyClasses: "exhibitions-page"
 seo:
