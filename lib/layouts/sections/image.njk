@@ -1,0 +1,23 @@
+{#
+  Image
+  Renders an image with a caption
+  
+  params: {
+    image: {
+      src: string - the image id
+      alt: string - the alt text
+      caption: string - the caption
+    }
+  }
+
+  YAML example:
+  image:
+    src: ''
+    alt: ''
+    caption: ''
+#}
+{% from "sections/particles/image.njk" import image %}
+
+<div class="image-wrapper section-inner">
+  {{ image(params) }}
+</div>
