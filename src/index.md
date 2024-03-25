@@ -4,8 +4,8 @@ draft: false
 navLabel: "Home"
 bodyClasses: "home-page"
 seo:
-  title: "Metalsmith First starter"
-  description: "Metalsmith First starter to build a static site with structured content"
+  title: "ines tancré"
+  description: "Ines Tancré is a visual artist based in Gibsons, BC, Canada. Her work has been exhibited in various galleries and museums."
   socialImage: "path to social image"
   canonicalOverwrite: ""
 pageNavLabel: "home"

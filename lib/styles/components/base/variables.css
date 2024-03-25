@@ -10,6 +10,7 @@ body {
 
   --background-image-home: url(/assets/images/bach3.jpg);
   --background-image-exhibits: url(/assets/images/bach2.jpg);
+  --background-image-works: url(/assets/images/bach1.jpg);
 
   /**
     * Default padding for containers and sections

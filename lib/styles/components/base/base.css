@@ -29,6 +29,9 @@ body {
   &.exhibitions-page {
     background-image: var(--background-image-exhibits);
   }
+  &.works-page {
+    background-image: var(--background-image-works);
+  }
 }
 
 .cf:before,
