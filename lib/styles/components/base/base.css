@@ -12,11 +12,16 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
+  padding-top: var(--header-height);
   background-image: var(--background-image-home);
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
+
+  &.modal-active {
+    overflow: hidden;
+  }
 
   &.home-page {
     background-image: var(--background-image-home);

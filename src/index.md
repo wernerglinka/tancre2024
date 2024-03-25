@@ -29,7 +29,6 @@ sections:
       header: "h1"
       subtitle: ""
       prose: |-
-        ![Tancre](/assets/images/ines-tancre.svg)
         The constant changes of locations and their particular cultural environments asking for personal re-orientation triggered most different, though interrelated and re-occurring themes of Tancre’s work.
   
   - container: "section"

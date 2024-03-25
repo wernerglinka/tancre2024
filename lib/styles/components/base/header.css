@@ -1,0 +1,77 @@
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  height: var(--header-height);
+  background-color: var(--header-background-color);
+
+  & .container {
+    padding: 0 var(--default-content-padding);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  & .brand {
+    height: var(--logo-height);
+    animation: welcome 1s ease-in-out;
+
+    & a {
+      display: block;
+      height: 100%;
+    }
+
+    & svg {
+      height: 100%;
+    }
+  }
+
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: flex-end;
+    gap: 2rem;
+
+    & a {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding-top: 0.5rem;
+    }
+
+    & svg {
+      width: 2rem;
+      height: 2rem;
+      stroke: #7E6F6E;
+    }
+  }
+}
+
+/* hide links to page when on the page */
+.home-page .home {
+  display: none;
+}
+.exhibitions-page .exhibits {
+  display: none;
+}
+.works-page .works {
+  display: none;
+}
+
+@keyframes welcome {
+  0% {
+    transform: scale(0);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}

@@ -4,6 +4,7 @@
 @import "./components/base/typography.css";
 @import "./elements/elements-index.css";
 @import "./components/base/base.css";
+@import "./components/base/header.css";
 @import "./components/base/footer.css";
 @import "./components/base/wrapper.css";
 @import "./components/modal.css";

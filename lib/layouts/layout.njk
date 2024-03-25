@@ -6,8 +6,10 @@
 
   <body class="{{ bodyClasses }}" >
     <div id="at-top"></div>
+
+    {% include "sections/header.njk" %}
     
-    <main id="swup" class="transition-fade">
+    <main>
         
       {% block body %}
         This is the default contents

@@ -73,7 +73,8 @@ p {
 
   a {
     text-decoration: none;
-    border-bottom: 1px dotted var(--color-highlight);
+    border-bottom: 1px dotted var(--color-primary);
+		cursor: pointer; /* Change to pointer on hover even when no href attribute exists */
   }
 }
 

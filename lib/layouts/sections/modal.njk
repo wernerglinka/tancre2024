@@ -52,7 +52,9 @@
 <div class="modal-wrapper">
   <span class="modal-close">CLOSE</span>
   <div class="modal-content">
+    {% if params.image.url %}
     {{ image(params) }}
+    {% endif %}
     {{ text(params) }}
     {{ ctas(params) }}
   </div>
