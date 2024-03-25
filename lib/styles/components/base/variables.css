@@ -2,7 +2,7 @@ body {
   --content-width: 100%;
   --max-content-width: 120rem;
   --content-margin: 0 auto;
-  --narrow-content-width: 60rem;
+  --narrow-content-width: 80rem;
 
   --header-height: clamp(6rem, 4.5714rem + 2.8571vw, 8rem);
   --header-background-color: rgba(255, 255, 255, 0.9);

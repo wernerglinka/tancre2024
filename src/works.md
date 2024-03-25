@@ -18,7 +18,7 @@ sections:
       containerId: "works-intro"
       containerClass: ""
       inContainer: true
-      isNarrow: false
+      isNarrow: true
       background:
         color: ""
         image: ""

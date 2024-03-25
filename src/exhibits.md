@@ -106,12 +106,12 @@ sections:
             Galerie 50 Rheinbreitbach, Germany
         
         - 2001
-        - **Rombilder**
+          - **Rombilder**
           
-          Eurotheater BonnBonn, Germany
-        - **Collages et peintures**
+            Eurotheater BonnBonn, Germany
+          - **Collages et peintures**
           
-          La Maison de L ´Amérique Latine Monte Carlo, Monaco
+            La Maison de L ´Amérique Latine Monte Carlo, Monaco
 
   - container: "section"
     name: "text"
