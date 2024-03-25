@@ -29,7 +29,7 @@ sections:
       header: "h1"
       subtitle: ""
       prose: |-
-        The constant changes of locations and their particular cultural environments asking for personal re-orientation triggered most different, though interrelated and re-occurring themes of Tancre’s work.
+        The constant changes of locations and their particular cultural environments triggered most different, though interrelated and re-occurring themes of Tancré’s work.
   
   - container: "section"
     name: "exhibit"
@@ -68,7 +68,7 @@ sections:
     containerFields:
       isDisabled: false
       isAnimated: false
-      containerId: "biography"
+      containerId: "statement"
       containerClass: ""
       inContainer: true
       isNarrow: true
@@ -78,19 +78,17 @@ sections:
         isDark: false
     text:
       prefix: ""
-      title: "Biography"
+      title: "Statement"
       header: "h2"
       subtitle: ""
       prose: |-
-        Ines Tancré was born and raised in Germany.
+        Making different countries home every couple of years shaped my way of perceiving and judging. Together with topical focuses in my studies it lead to questioning so-called reality or “truth” including its visual representation in form of photography. Adding to or eliminating features from the original image creates multilayered meaning and includes the viewer in a process meant to challenge the habitual.
 
-        She lives and works in Gibsons, BC - Canada.
+        My work is meant to communicate the link between thinking and feeling, between knowing and guessing, between appearance and the beyond. Some of the images – figurative as well as abstract - are dealing with change and fleetingness, others aim at interpreting a story behind the surface.
 
-        After finishing her studies with a PhD in Linguistics and Philosophy she accompanied her husband on his diplomatic postings around the world for many years.
+        Skin and folds hold mystery. Lines pointing beyond the visual art work, additional colours and markers carry meaning. A moment in time and presumed opposites are disintegrating in a larger context.
 
-        The constant changes of locations and their particular cultural environments triggered most different, though interrelated themes of her work: the interconnectedness of present and past in the process of perception, the tension between opposites and the enigma resulting from overlays of experiences.
-
-        Ines Tancré has shown her work internationally. As co-founder of the GERMAN AMERICAN ARTISTS she was representing the group in Europe until she came to stay in Canada in 2010.
+        The repetitive filtering process to find ways for minimalist artistic representation on the one hand and throwing a bridge to storytelling on the other represents two sides of my work. It is and has been an ongoing challenge.
 
   - container: section
     name: image
@@ -115,7 +113,7 @@ sections:
     containerFields:
       isDisabled: false
       isAnimated: false
-      containerId: "statement"
+      containerId: "biography"
       containerClass: ""
       inContainer: true
       isNarrow: true
@@ -125,13 +123,19 @@ sections:
         isDark: false
     text:
       prefix: ""
-      title: "Statement"
+      title: "Biography"
       header: "h2"
       subtitle: ""
       prose: |-
-        Making different countries home every couple of years shaped my way of perceiving and judging. Together with topical focuses in my studies it lead to questioning so-called reality or “truth” including its visual representation in form of photography. Adding to or eliminating features from the original image creates multilayered meaning and includes the viewer in a process meant to challenge the habitual.
+        Ines Tancré was born and raised in Germany.
 
-        My work is meant to communicate the link between thinking and feeling, between knowing and guessing, between appearance and the beyond. Some of the images – figurative as well as abstract - are dealing with change and fleetingness, others aim at interpreting a story behind the surface.
+        She lives and works in Gibsons, BC, Canada
 
-        Skin is covering mystery, lines are pointing to the unknown, a moment in time is disintegrating, and opposites are melting together with established views and opinions.
+        After finishing her studies of Linguistics and Philosophy she accompanied her husband on his diplomatic postings around the world for many years.
+        - 1966-1971 Studies in Munich, Madrid and Bonn, PhD in Linguistics
+        - 1972-2010 Variety of fields of work during postings in Iran, Sierra Leone, Canada, Norway, Egypt, Germany, Italy, USA and Austria
+        - Since 1995 Mixed media artwork based on photography
+        - 2001 - 2024 Exhibitions in Germany, Austria, Monaco and USA and Canada
+
+        As co-founder of the GERMAN AMERICAN ARTISTS she was representing the group in Europe until she came to stay in Canada in 2010.
 ---

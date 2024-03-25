@@ -50,22 +50,12 @@ sections:
       header: "h2"
       subtitle: ""
       prose: |-
-        - 2016
-          - **Ines Tancre - works**
-            
-            Private Showing Roberts Creek, BC
-        - 2015
-          - **Ines Tancre - works**
-            
-            Health & Wellness Center, Gibsons, BC
-        
-        - 2013
-          - **Roberts Creek Arts Festival**
-        
         - 2010
           - **4 stagioni**
             
-            German Chamber of Commerce Vienna, Austria
+            German Chamber of Commerce 
+            
+            Vienna, Austria
 
             <a class="modal-link" data-target="wien2010">Vernissage mit Ines Tancré (in Deutsch)</a>
         
@@ -77,20 +67,32 @@ sections:
         - 2008
           - **Zwischenräume**
             
-            Kurfürstliches Gärtnerhaus, Bonn, Germany
+            Kurfürstliches Gärtnerhaus
+            
+            Bonn, Germany
   
         - 2007
+          - **Silicon Valley and Beyond**
+            
+            Norton Gallery
+            
+            Palo Alto, CA - USA
+
           - **surface**
         
-            Haus Bachem, Königswinter, Germany
+            Haus Bachem
+            
+            Königswinter, Germany
             
             <a class="modal-link" data-target="surface2007">Introduction by Christina zu Mecklenburg (in Deutsch)</a>
             
-          - **Silicon Valley and Beyond**
-            
-            Norton Studio, Palo Alto, CA
-        
         - 2006
+          - **Stone**
+
+            ProvenceStone
+            
+            San Carlos, CA - USA
+
           - **Silicon Valley**
             
             GermanAmericanArtists.com
@@ -98,20 +100,28 @@ sections:
         - 2003
           - **three times**
             
-            Spindlers Hof, Berlin, Germany
+            Spindlers Hof
+            
+            Berlin, Germany
         
         - 2002
           - **Due**
             
-            Galerie 50 Rheinbreitbach, Germany
+            Galerie 50
+            
+            Rheinbreitbach, Germany
         
         - 2001
           - **Rombilder**
           
-            Eurotheater BonnBonn, Germany
+            Eurotheater Bonn
+            
+            Bonn, Germany
           - **Collages et peintures**
           
-            La Maison de L ´Amérique Latine Monte Carlo, Monaco
+            La Maison de L ´Amérique Latine 
+            
+            Monte Carlo, Monaco
 
   - container: "section"
     name: "text"
@@ -132,12 +142,55 @@ sections:
       header: "h2"
       subtitle: ""
       prose: |-
+        - 2024
+          - **In-version**
+
+            Gibson Public Art Gallery
+            
+            Gibsons, BC
+        - 2022
+          - **once-again**
+
+            KoFabric Bochum
+
+            Bochum, Germany
+
+          - **Art for Ukraine**
+
+            Tancre Studio
+
+            Fundraising Event
+
+            Gibsons, BC
+
+        - 2021
+          - **beyond-curating**
+
+            Rockwood Lodge
+
+            Sechelt, BC
+
+        - 2020
+          - **Art Program**
+
+            Gibsons Public Market
+
+            Gibsons, BC
+
+        - 2019
+          - **Beneath the Surface**
+
+            Private Exhibition, Camp Road
+
+            Gibsons, BC
+        
         - 2018
           - **Change of View**
             
-            GPAG in the Eve Smart Gallery
+            Gibsons Public Art Gallery
             
             Gibsons, BC
+
           - **Gibsons Privat Market**
             
             Gibsons, BC
@@ -171,42 +224,60 @@ sections:
             Goldmoss Gallery, Roberts Creek, BC
           - **Sunshine Coast Art Crawl**
         - 2012
-          - **Ongoing Exhibition**
+          - **bodyactrice**
 
-            Goldmoss Gallery, Roberts Creek, BC
+            Goldmoss Gallery
+            
+            Roberts Creek, BC
+          
+          - **Sunshine Coast Art Crawl**
         - 2011
           - **Body of Snow**
 
-            Goldmoss Gallery, Roberts Creek, BC
+            Goldmoss Gallery
+            
+            Roberts Creek, BC
         - 2009
-          - **rust**
+          - **Rust**
 
-            Sanchez Art Center, Pacifica, CA
+            Sanchez Art Center
+            
+            Pacifica, CA
         - 2008
           - **Königwinter Kunsttage**
             
-            Gallery auf dem Margarethenhof, Königswinter, Germany
+            Gallery auf dem Margarethenhof
+            
+            Königswinter, Germany
 
             <a class="modal-link" data-target="koeningswinter2008">Report by Deutsche Welle TV</a>
         - 2007
           - **GA8**
 
-            Fingerhut Gallery, Sausalito, CA
+            Fingerhut Gallery
+            
+            Sausalito, CA
           - **Doppelgänger**
 
             1870 Art Center, Belmont, CA
           
           - **Berlin & Beyond**
           
-            German Consulate General, San Francisco,CA
+            German Consulate General
+            
+            San Francisco,CA
         - 2006
-          - **Introducing German America Artists**
+          - **German America Artists - works**
 
-            German Consulate General, San Francisco, CA
+            German Consulate General
+            
+            San Francisco, CA - USA
           
           - **Stone Series**
 
-            ProvenceStone, San Carlos, CA
+            ProvenceStone
+            
+            San Carlos, CA - USA
           
           - **umlaut**
 
@@ -214,27 +285,39 @@ sections:
 
           - **Sculpture and Photography**
           
-            Pacific Art League, Palo Alto, CA
+            Pacific Art League
+            
+            Palo Alto, CA - USA (3rd Price)
         - 2005
           - **Clocking It**
 
-            Pacific Art League, Palo Alto, CA - Honorable Mention
+            Pacific Art League
+            
+            Palo Alto, CA - USA (Honorable Mention)
           - **Splash**
           
             Pacific Art League, Palo Alto, CA - First Price
           - **Face and Figure**
             
-            Pacific Art League, Palo Alto, CA
+            Pacific Art League
+            
+            Palo Alto, CA - USA
           - **California Dreamin'**
           
-            Pacific Art League, Palo Alto, CA
+            Pacific Art League
+            
+            Palo Alto, CA
           - **Abstractions**
           
-            Pacific Art League, Palo Alto, CA
+            Pacific Art League
+            
+            Palo Alto, CA
         - 2004
           - **Peninsula Open Studios**
           
-            The American Frameshop, Palo Alto, CA
+            The American Frameshop
+            
+            Palo Alto, CA
 
   - container: "section"
     name: "modal"
