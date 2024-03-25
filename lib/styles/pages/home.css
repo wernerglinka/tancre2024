@@ -69,5 +69,20 @@
 }
 #biography {
   padding: 0 4rem 0 8rem;
+}
 
+@media (max-width: 500px) {
+  #statement,
+  #biography {
+    padding: 0 2rem;
+  }
+
+  #announcement {
+    & .exhibit-text {
+      position: static;
+    }
+    & .image {
+      padding: 0;
+    }
+  }
 }
