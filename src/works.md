@@ -27,7 +27,7 @@ sections:
       prefix: ""
       title: "Selected Works"
       header: "h1"
-      subtitle: ""
+      subtitle: "A comprehensive overview of Ines Tancré's work is available [here](https://www.instagram.com/inestancre/)."
       prose: |-
         Making different countries home every couple of years shaped my way of perceiving and judging. Together with topical focuses in my studies it lead to questioning so-called reality or “truth” including its visual representation in form of photography. Adding to or eliminating features from the original image creates multilayered meaning and includes the viewer in a process meant to challenge the habitual.
 
@@ -35,5 +35,99 @@ sections:
 
         Skin is covering mystery, lines are pointing to the unknown, a moment in time is disintegrating, and opposites are melting together with established views and opinions.
   
-  
+  - container: "section"
+    name: "exhibit"
+    date: ""
+    containerFields:
+      isDisabled: false
+      isAnimated: false
+      containerId: "works-item"
+      containerClass: ""
+      inContainer: true
+      isNarrow: true
+      background:
+        color: ""
+        image: ""
+        isDark: false
+    text:
+      prefix: ""
+      title: "thinkline"
+      header: "h2"
+      subtitle: ""
+      prose: ""
+    hasCtas: true
+    ctas:
+      - url: "/works/thinkline"
+        label: "see more"
+        isExternal: false
+        isButton: false
+        buttonStyle: ""
+    image:
+      src: "/assets/images/works/thinkline/tangent_28.jpg"
+      alt: "Tangent 28"
+      caption: ""
+
+  - container: "section"
+    name: "exhibit"
+    date: ""
+    containerFields:
+      isDisabled: false
+      isAnimated: false
+      containerId: "works-item"
+      containerClass: ""
+      inContainer: true
+      isNarrow: true
+      background:
+        color: ""
+        image: ""
+        isDark: false
+    text:
+      prefix: ""
+      title: "context"
+      header: "h2"
+      subtitle: ""
+      prose: ""
+    hasCtas: true
+    ctas:
+      - url: "/works/context"
+        label: "see more"
+        isExternal: false
+        isButton: false
+        buttonStyle: ""
+    image:
+      src: "/assets/images/works/contexts/transient1-2011.jpg"
+      alt: "Transient 1"
+      caption: ""
+
+  - container: "section"
+    name: "exhibit"
+    date: ""
+    containerFields:
+      isDisabled: false
+      isAnimated: false
+      containerId: "works-item"
+      containerClass: ""
+      inContainer: true
+      isNarrow: true
+      background:
+        color: ""
+        image: ""
+        isDark: false
+    text:
+      prefix: ""
+      title: "motion"
+      header: "h2"
+      subtitle: ""
+      prose: ""
+    hasCtas: true
+    ctas:
+      - url: "/works/motion"
+        label: "see more"
+        isExternal: false
+        isButton: false
+        buttonStyle: ""
+    image:
+      src: "/assets/images/works/motion/bach3.jpg"
+      alt: "Bach 3"
+      caption: ""
 ---

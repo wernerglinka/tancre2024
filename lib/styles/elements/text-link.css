@@ -5,18 +5,19 @@
   font-size: 18px;
   font-weight: 500;
   transition: all 0.3s ease-in-out;
-  letter-spacing: 0.1em;
   text-decoration: none;
   cursor: pointer;
+  color: var(----color-link);
 
   &:after {
-    content: ">>>";
-    padding-left: 10px;
-    letter-spacing: 0.1em;
+    content: "...";
     transition: all 0.3s ease-in-out;
   }
 
-  &:hover:after {
-    letter-spacing: 1em;
-  }
+  &:hover{
+    color: var(--color-link-hover);
+
+    &:after {
+    color: var(--color-link-hover);
+  }}
 }

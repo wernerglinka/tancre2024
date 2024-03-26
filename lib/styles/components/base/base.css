@@ -32,6 +32,15 @@ body {
   &.works-page {
     background-image: var(--background-image-works);
   }
+  &.works-page-thinkline {
+    background-image: var(--background-image-works-thinkline);
+  }
+  &.works-page-context {
+    background-image: var(--background-image-works-context);
+  }
+  &.works-page-motion {
+    background-image: var(--background-image-works-motion);
+  }
 }
 
 .cf:before,

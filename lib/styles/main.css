@@ -11,6 +11,7 @@
 
 @import "./pages/home.css";
 @import "./pages/exhibits.css";
+@import "./pages/works.css";
 
 /* Section styles */
 @import "./components/image.css";

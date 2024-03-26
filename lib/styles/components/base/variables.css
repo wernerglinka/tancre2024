@@ -11,6 +11,9 @@ body {
   --background-image-home: url(/assets/images/bach3.jpg);
   --background-image-exhibits: url(/assets/images/bach2.jpg);
   --background-image-works: url(/assets/images/bach1.jpg);
+  --background-image-works-thinkline: url(/assets/images/works/thinkline/tangent_26.jpg);
+  --background-image-works-context: url(/assets/images/dawn.jpg);
+  --background-image-works-motion: url(/assets/images/works/motion/bach4.jpg);
 
   /**
     * Default padding for containers and sections

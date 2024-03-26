@@ -14,7 +14,7 @@
   {% endif %}
 
   {% if props.text.subtitle %}
-    <p class="sub-title">{{ props.text.subtitle }}</p>
+    <div class="sub-title">{{ props.text.subtitle | mdToHTML | safe }}</div>
   {% endif %}
 
   {% if props.text.prose %}
