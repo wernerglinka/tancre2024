@@ -95,7 +95,7 @@ sections:
         isButton: false
         buttonStyle: ""
     image:
-      src: "/assets/images/works/contexts/transient1-2011.jpg"
+      src: "/assets/images/works/context/transient1-2011.jpg"
       alt: "Transient 1"
       caption: ""
 
