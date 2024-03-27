@@ -1,14 +1,14 @@
 --- 
 layout: "sections.njk"
 draft: false
-navLabel: "context"
-bodyClasses: "works-page-context"
+navLabel: "Touch"
+bodyClasses: "works-page-touch"
 seo:
-  title: "Ines Tancré | Works - context"
+  title: "Ines Tancré | Works - Touch"
   description: "Ines Tancré is a visual artist based in Gibsons, BC, Canada. Her work has been exhibited in various galleries and museums."
   socialImage: "path to social image"
   canonicalOverwrite: ""
-pageNavLabel: "context"
+pageNavLabel: "Touch"
 sections:
   - container: "section"
     name: "text"
@@ -25,11 +25,11 @@ sections:
         isDark: false
     text:
       prefix: ""
-      title: "context"
+      title: "Touch"
       header: "h1"
-      subtitle: "A selection of works from the Context series"
-      prose: ""
-  
+      subtitle: "A selection of works from the Touch series"
+      prose: |-
+        
   - container: section
     name: image
     containerFields:
@@ -44,9 +44,9 @@ sections:
         image: ""
         isDark: false
     image:
-      src: "/assets/images/works/context/beachscript.jpg"
-      alt: "beachscript"
-      caption: "Beachscript, Photography, Mixed Media" 
+      src: "/assets/images/works/thinkline/tangent_14.jpg"
+      alt: "tangent 25"
+      caption: "Tangent 25, 2009, photography, mixed media on canvas" 
 
   - container: section
     name: image
@@ -62,9 +62,9 @@ sections:
         image: ""
         isDark: false
     image:
-      src: "/assets/images/works/context/excarvation.jpg"
-      alt: "excarvation"
-      caption: "Excarvation, Photography, Mixed Media" 
+      src: "/assets/images/works/thinkline/tangent_25.jpg"
+      alt: "tangent 25"
+      caption: "Tangent 25, 2009, photography, mixed media on canvas" 
 
   - container: section
     name: image
@@ -80,9 +80,9 @@ sections:
         image: ""
         isDark: false
     image:
-      src: "/assets/images/works/context/facebook.jpg"
-      alt: "facebook"
-      caption: "Facebook, Photography, Mixed Media" 
+      src: "/assets/images/works/thinkline/tangent_26.jpg"
+      alt: "tangent 25"
+      caption: "Tangent 25, 2009, photography, mixed media on canvas" 
 
   - container: section
     name: image
@@ -98,9 +98,8 @@ sections:
         image: ""
         isDark: false
     image:
-      src: "/assets/images/works/context/roadscript.jpg"
-      alt: "roadscript"
-      caption: "Roadscript, Photography, Mixed Media"  
-
+      src: "/assets/images/works/thinkline/tangent_28.jpg"
+      alt: "tangent 25"
+      caption: "Tangent 25, 2009, photography, mixed media on canvas" 
 
 ---

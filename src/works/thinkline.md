@@ -46,7 +46,7 @@ sections:
     image:
       src: "/assets/images/works/thinkline/tangent_14.jpg"
       alt: "tangent 25"
-      caption: "Tangent 25, 2009, photography, mixed media on canvas" 
+      caption: "Tangent 25, photography, mixed media on canvas" 
 
   - container: section
     name: image
@@ -64,7 +64,7 @@ sections:
     image:
       src: "/assets/images/works/thinkline/tangent_25.jpg"
       alt: "tangent 25"
-      caption: "Tangent 25, 2009, photography, mixed media on canvas" 
+      caption: "Tangent 25, photography, mixed media on canvas" 
 
   - container: section
     name: image
@@ -82,7 +82,7 @@ sections:
     image:
       src: "/assets/images/works/thinkline/tangent_26.jpg"
       alt: "tangent 25"
-      caption: "Tangent 25, 2009, photography, mixed media on canvas" 
+      caption: "Tangent 25, photography, mixed media on canvas" 
 
   - container: section
     name: image
@@ -100,6 +100,6 @@ sections:
     image:
       src: "/assets/images/works/thinkline/tangent_28.jpg"
       alt: "tangent 25"
-      caption: "Tangent 25, 2009, photography, mixed media on canvas" 
+      caption: "Tangent 25, photography, mixed media on canvas" 
 
 ---

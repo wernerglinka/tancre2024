@@ -51,6 +51,71 @@ sections:
         isDark: false
     text:
       prefix: ""
+      title: "surface"
+      header: "h2"
+      subtitle: ""
+      prose: ""
+    hasCtas: true
+    ctas:
+      - url: "/works/surface"
+        label: "see more"
+        isExternal: false
+        isButton: false
+        buttonStyle: ""
+    image:
+      src: ""
+      alt: "surface"
+      caption: ""
+
+  - container: "section"
+    name: "exhibit"
+    date: ""
+    containerFields:
+      isDisabled: false
+      isAnimated: false
+      containerId: "works-item"
+      containerClass: ""
+      inContainer: true
+      isNarrow: true
+      background:
+        color: ""
+        image: ""
+        isDark: false
+    text:
+      prefix: ""
+      title: "touch"
+      header: "h2"
+      subtitle: ""
+      prose: ""
+    hasCtas: true
+    ctas:
+      - url: "/works/touch"
+        label: "see more"
+        isExternal: false
+        isButton: false
+        buttonStyle: ""
+    image:
+      src: ""
+      alt: "surface"
+      caption: ""
+
+
+  - container: "section"
+    name: "exhibit"
+    date: ""
+    containerFields:
+      isDisabled: false
+      isAnimated: false
+      containerId: "works-item"
+      containerClass: ""
+      inContainer: true
+      isNarrow: true
+      background:
+        color: ""
+        image: ""
+        isDark: false
+    text:
+      prefix: ""
       title: "thinkline"
       header: "h2"
       subtitle: ""

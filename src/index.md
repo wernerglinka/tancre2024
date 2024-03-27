@@ -47,7 +47,7 @@ sections:
         isDark: false
     text:
       prefix: ""
-      title: "INVERSIONS"
+      title: "in-versions"
       header: "h2"
       subtitle: "An exhibition in the Main Gallery by Ines Tancré."
       prose: ""
@@ -106,7 +106,7 @@ sections:
     image:
       src: "/assets/images/works/thinkline/tangent_25.jpg"
       alt: "tangent 25"
-      caption: "Tangent 25, 2009, photography, mixed media on canvas"  
+      caption: "Tangent 25, photography, mixed media on canvas"  
 
   - container: "section"
     name: "text"

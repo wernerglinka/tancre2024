@@ -46,7 +46,7 @@ sections:
     image:
       src: "/assets/images/works/motion/bach1.jpg"
       alt: "bach 1"
-      caption: "Bach 1, 2010, photography" 
+      caption: "Bach 1, photography" 
 
   - container: section
     name: image
@@ -64,7 +64,7 @@ sections:
     image:
       src: "/assets/images/works/motion/bach2.jpg"
       alt: "bach 2"
-      caption: "Bach 2, 2010, photography" 
+      caption: "Bach 2, photography" 
 
   - container: section
     name: image
@@ -82,7 +82,7 @@ sections:
     image:
       src: "/assets/images/works/motion/bach3.jpg"
       alt: "bach 3"
-      caption: "Bach 3, 2010, photography" 
+      caption: "Bach 3, photography" 
 
   - container: section
     name: image
@@ -100,6 +100,6 @@ sections:
     image:
       src: "/assets/images/works/motion/bach4.jpg"
       alt: "bach 4"
-      caption: "Bach 4, 2010, photography"  
+      caption: "Bach 4, photography"  
 
 ---
