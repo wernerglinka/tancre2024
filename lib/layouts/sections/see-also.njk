@@ -1,0 +1,28 @@
+{#
+  See also
+  Renders a list of page links with relevant content
+  
+  params: {
+    links: [
+      - link1
+      - link2
+      ...
+    ]
+  }
+
+  YAML example:
+  links:
+    - "link1"
+    - "link2"
+    ...
+#}
+
+<div class="see-also-wrapper section-inner">
+  <ul class="see-also">
+    {% for link in params.links %}
+      <li>
+        <a href="{{ link.url }}">{{ link.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

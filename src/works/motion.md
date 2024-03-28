@@ -102,4 +102,26 @@ sections:
       alt: "somewhere close"
       caption: "Somewhere Close, photography"  
 
+  - container: section
+    name: see-also
+    containerFields:
+      isDisabled: false
+      isAnimated: false
+      containerId: ""
+      containerClass: ""
+      inContainer: true
+      isNarrow: true
+      background:
+        color: ""
+        image: ""
+        isDark: false
+    links:
+      - title: 3d
+        url: "/works/3d/"
+      - title: touch
+        url: "/works/touch/"
+      - title: thinkline
+        url: "/works/thinkline/"
+      - title: context 
+        url: "/works/context/"
 ---

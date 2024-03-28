@@ -102,4 +102,27 @@ sections:
       alt: "tangent 25"
       caption: "Tangent 25, photography, mixed media on canvas" 
 
+  - container: section
+    name: see-also
+    containerFields:
+      isDisabled: false
+      isAnimated: false
+      containerId: ""
+      containerClass: ""
+      inContainer: true
+      isNarrow: true
+      background:
+        color: ""
+        image: ""
+        isDark: false
+    links:
+      - title: 3d
+        url: "/works/3d/"
+      - title: touch
+        url: "/works/touch/"
+      - title: context 
+        url: "/works/context/"
+      - title: motion
+        url: "/works/motion/"
+
 ---

@@ -25,7 +25,7 @@ sections:
         isDark: false
     text:
       prefix: ""
-      title: "Touch"
+      title: "touch"
       header: "h1"
       subtitle: "A selection of works from the Touch series"
       prose: |-
@@ -102,4 +102,26 @@ sections:
       alt: "touching 2"
       caption: "Touching 2, photography" 
 
+  - container: section
+    name: see-also
+    containerFields:
+      isDisabled: false
+      isAnimated: false
+      containerId: ""
+      containerClass: ""
+      inContainer: true
+      isNarrow: true
+      background:
+        color: ""
+        image: ""
+        isDark: false
+    links:
+      - title: 3d
+        url: "/works/3d/"
+      - title: thinkline
+        url: "/works/thinkline/"
+      - title: context 
+        url: "/works/context/"
+      - title: motion
+        url: "/works/motion/"
 ---

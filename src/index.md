@@ -134,7 +134,7 @@ sections:
         After finishing her studies of Linguistics and Philosophy she accompanied her husband on his diplomatic postings around the world for many years.
         - 1966-1971 Studies in Munich, Madrid and Bonn, PhD in Linguistics
         - 1972-2010 Variety of fields of work during postings in Iran, Sierra Leone, Canada, Norway, Egypt, Germany, Italy, USA and Austria
-        - Since 1995 Mixed media artwork based on photography
+        - Since 1995 Mixed media artwork based on photography as well as 3D objects
         - 2001 - 2024 Exhibitions in Germany, Austria, Monaco and USA and Canada
 
         As co-founder of the GERMAN AMERICAN ARTISTS she was representing the group in Europe until she came to stay in Canada in 2010.
