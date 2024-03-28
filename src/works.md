@@ -160,8 +160,8 @@ sections:
         isButton: false
         buttonStyle: ""
     image:
-      src: "/assets/images/works/context/richters-candle-for-sale-ever-mine .jpg"
-      alt: "richters candle for sale ever mine "
+      src: "/assets/images/works/context/richters-candle-for-sale-never-mine .jpg"
+      alt: "richters candle for sale never mine "
       caption: ""
 
   - container: "section"
