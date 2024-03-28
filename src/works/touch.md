@@ -44,9 +44,9 @@ sections:
         image: ""
         isDark: false
     image:
-      src: "/assets/images/works/thinkline/tangent_14.jpg"
-      alt: "tangent 25"
-      caption: "Tangent 25, 2009, photography, mixed media on canvas" 
+      src: "/assets/images/works/touch/balancing-leaf-1.jpg"
+      alt: "balancing leaf 1"
+      caption: "Balancing Leaf 1, photography" 
 
   - container: section
     name: image
@@ -62,9 +62,9 @@ sections:
         image: ""
         isDark: false
     image:
-      src: "/assets/images/works/thinkline/tangent_25.jpg"
-      alt: "tangent 25"
-      caption: "Tangent 25, 2009, photography, mixed media on canvas" 
+      src: "/assets/images/works/touch/balancing-poppy.jpg"
+      alt: "balancing poppy"
+      caption: "Balancing poppy, photography" 
 
   - container: section
     name: image
@@ -80,9 +80,9 @@ sections:
         image: ""
         isDark: false
     image:
-      src: "/assets/images/works/thinkline/tangent_26.jpg"
-      alt: "tangent 25"
-      caption: "Tangent 25, 2009, photography, mixed media on canvas" 
+      src: "/assets/images/works/touch/touching-light.jpg"
+      alt: "touching light"
+      caption: "Touching Light, photography" 
 
   - container: section
     name: image
@@ -98,8 +98,8 @@ sections:
         image: ""
         isDark: false
     image:
-      src: "/assets/images/works/thinkline/tangent_28.jpg"
-      alt: "tangent 25"
-      caption: "Tangent 25, 2009, photography, mixed media on canvas" 
+      src: "/assets/images/works/touch/touching-2.jpg"
+      alt: "touching 2"
+      caption: "Touching 2, photography" 
 
 ---

@@ -44,9 +44,9 @@ sections:
         image: ""
         isDark: false
     image:
-      src: "/assets/images/works/motion/bach1.jpg"
-      alt: "bach 1"
-      caption: "Bach 1, photography" 
+      src: "/assets/images/works/motion/yuja-wang-plays-rachmaninov.jpg"
+      alt: "Yuja Wang plays Rachmaninov. Live transcript"
+      caption: "Yuja Wang plays Rachmaninov. Live transcript" 
 
   - container: section
     name: image
@@ -62,9 +62,9 @@ sections:
         image: ""
         isDark: false
     image:
-      src: "/assets/images/works/motion/bach2.jpg"
-      alt: "bach 2"
-      caption: "Bach 2, photography" 
+      src: "/assets/images/works/motion/scape-VI.jpg"
+      alt: "scape VI"
+      caption: "Scape VI, photography" 
 
   - container: section
     name: image
@@ -80,9 +80,9 @@ sections:
         image: ""
         isDark: false
     image:
-      src: "/assets/images/works/motion/bach3.jpg"
-      alt: "bach 3"
-      caption: "Bach 3, photography" 
+      src: "/assets/images/works/motion/hb2.jpg"
+      alt: "HB 2"
+      caption: "HB 2, photography" 
 
   - container: section
     name: image
@@ -98,8 +98,8 @@ sections:
         image: ""
         isDark: false
     image:
-      src: "/assets/images/works/motion/bach4.jpg"
-      alt: "bach 4"
-      caption: "Bach 4, photography"  
+      src: "/assets/images/works/motion/somewhere-close.jpg"
+      alt: "somewhere close"
+      caption: "Somewhere Close, photography"  
 
 ---

@@ -51,20 +51,20 @@ sections:
         isDark: false
     text:
       prefix: ""
-      title: "surface"
+      title: "3D"
       header: "h2"
       subtitle: ""
       prose: ""
     hasCtas: true
     ctas:
-      - url: "/works/surface"
+      - url: "/works/3d"
         label: "see more"
         isExternal: false
         isButton: false
         buttonStyle: ""
     image:
-      src: ""
-      alt: "surface"
+      src: "/assets/images/works/3d/recycled-10.jpg"
+      alt: "Recycled 10"
       caption: ""
 
   - container: "section"
@@ -95,8 +95,8 @@ sections:
         isButton: false
         buttonStyle: ""
     image:
-      src: ""
-      alt: "surface"
+      src: "/assets/images/works/touch/balancing-pod.jpg"
+      alt: "touch"
       caption: ""
 
 
@@ -128,7 +128,7 @@ sections:
         isButton: false
         buttonStyle: ""
     image:
-      src: "/assets/images/works/thinkline/tangent_28.jpg"
+      src: "/assets/images/works/thinkline/room-option-2.jpg"
       alt: "Tangent 28"
       caption: ""
 
@@ -160,8 +160,8 @@ sections:
         isButton: false
         buttonStyle: ""
     image:
-      src: "/assets/images/works/context/transient1-2011.jpg"
-      alt: "Transient 1"
+      src: "/assets/images/works/context/richters-candle-for-sale-ever-mine .jpg"
+      alt: "richters candle for sale ever mine "
       caption: ""
 
   - container: "section"
