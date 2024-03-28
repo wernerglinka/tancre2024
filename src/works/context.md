@@ -118,10 +118,11 @@ sections:
     links:
       - title: 3d
         url: "/works/3d/"
-      - title: touch
-        url: "/works/touch/"
-      - title: thinkline
-        url: "/works/thinkline/"
       - title: motion
         url: "/works/motion/"
+      - title: thinkline
+        url: "/works/thinkline/"
+      - title: touch
+        url: "/works/touch/"
+      
 ---
