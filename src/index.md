@@ -35,7 +35,7 @@ sections:
     name: "exhibit"
     date: "May 2 - 26"
     containerFields:
-      isDisabled: false
+      isDisabled: true
       isAnimated: false
       containerId: "announcement"
       containerClass: ""
@@ -62,6 +62,41 @@ sections:
       src: "/assets/images/inestancrerichterscandleforsale.nevermine.jpg"
       alt: "richterscandleforsale.nevermine"
       caption: "Different versions of reality are created to open up new dimensions of meanings and challenge our usual perceptions of an object."
+
+  - container: "section"
+    name: video-follow-up
+    containerFields:
+      isDisabled: false
+      isAnimated: false
+      containerId: "video-follow-up"
+      containerClass: ""
+      inContainer: true
+      isNarrow: false
+      background:
+        color: ""
+        image: ""
+        isDark: false
+    video:
+      title: ""
+      inline: false
+      src: ""
+      id: izfXE6JpQK8
+      tn: /assets/images/inestancrerichterscandleforsale.nevermine.jpg
+      start: ""
+      end: ""
+    text:
+      prefix: ""
+      title: "in-versions"
+      header: "h2"
+      subtitle: "An exhibition at the Gibsons Public Art Gallery. <br>Watch the video"
+      prose: ""
+    hasCtas: false
+    ctas:
+      - url: ""
+        label: ""
+        isExternal: true
+        isButton: false
+        buttonStyle: ""
 
   - container: "section"
     name: "text"
