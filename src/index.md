@@ -88,7 +88,7 @@ sections:
       prefix: ""
       title: "in-versions"
       header: "h2"
-      subtitle: "Watch the video of the exhibition at the <br>Gibsons Public Art Gallery in May 2021."
+      subtitle: "Watch the video of the exhibition at the <br>Gibsons Public Art Gallery in May 2024."
       prose: ""
     hasCtas: false
     ctas:
