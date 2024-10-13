@@ -1,4 +1,4 @@
---- 
+---
 layout: "sections.njk"
 draft: false
 navLabel: "exhibits"
@@ -58,19 +58,19 @@ sections:
             Vienna, Austria
 
             <a class="modal-link" data-target="wien2010">Vernissage mit Ines Tancré (in Deutsch)</a>
-        
+
         - 2009
           - **think line**
             
             GermanAmericanArtists.com
-        
+
         - 2008
           - **Zwischenräume**
             
             Kurfürstliches Gärtnerhaus
             
             Bonn, Germany
-  
+
         - 2007
           - **Silicon Valley and Beyond**
             
@@ -79,7 +79,7 @@ sections:
             Palo Alto, CA - USA
 
           - **surface**
-        
+
             Haus Bachem
             
             Königswinter, Germany
@@ -96,21 +96,21 @@ sections:
           - **Silicon Valley**
             
             GermanAmericanArtists.com
-        
+
         - 2003
           - **three times**
             
             Spindlers Hof
             
             Berlin, Germany
-        
+
         - 2002
           - **Due**
             
             Galerie 50
             
             Rheinbreitbach, Germany
-        
+
         - 2001
           - **Rombilder**
           
@@ -148,6 +148,14 @@ sections:
             Gibson Public Art Gallery
             
             Gibsons, BC
+
+          - **Sunshine Coast Art Crawl**
+
+            Rockwood Lodge
+
+            Sechelt, BC
+
+
         - 2022
           - **once-again**
 
@@ -183,7 +191,7 @@ sections:
             Private Exhibition, Camp Road
 
             Gibsons, BC
-        
+
         - 2018
           - **Change of View**
             
@@ -412,7 +420,7 @@ sections:
         Es ist der Blick hinter Fenster, Kulissen oder Vorh&auml;nge schlechthin, zu dem die K&uuml;nstlerin anstachelt; evident wird die Absicht, das Unsichtbare hinter dem Sichtbaren, gewisserma&szlig;en den Backstagebereich von Wahrnehmungsinhalten aufflackern zu lassen.
           
         Wesentlich auch in dieser Reihe, und dies ist gleicherma&szlig;en eine zentrale Intention einer grunds&auml;tzlich f&uuml;r betrachterische Gedankenfreiheit stimmende K&uuml;nstlerin, sind reichlich zur Verf&uuml;gung gestellte Freir&auml;ume f&uuml;r Deutungsspielarten und Spekulationen.
-        
+
         Ungew&ouml;hnliche, die Neugierde befl&uuml;gelnde Erscheinungsbilder offenbart eine mosaikartig montierte Folge von Arbeiten, die sich n&auml;hrt aus dem Gedankenzusammenhang von &bdquo;facets &#150; facetten&ldquo;.
           
         Die schlichten Entw&uuml;rfe von &bdquo;dresses&ldquo; wirken wie archaische, sakral angehauchte Gew&auml;nder. Ihr collagenes Flickwerk l&auml;&szlig;t sich lesen wie eine innere Reise zum Kern von partiell elegischen, wehm&uuml;tigen Lebenslandschaften; deren frappierende Bandbreite fesselt eine Fotok&uuml;nstlerin, die in diesem Kontext etwa die Diskrepanz zwischen offenkundiger Anmut und untergr&uuml;ndigem Horror auslotet.

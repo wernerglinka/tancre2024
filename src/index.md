@@ -1,4 +1,4 @@
---- 
+---
 layout: "sections.njk"
 draft: false
 navLabel: "Home"
@@ -30,7 +30,7 @@ sections:
       subtitle: ""
       prose: |-
         The constant changes of locations and their particular cultural environments triggered most different, though interrelated and re-occurring themes of Tancré’s work.
-  
+
   - container: "section"
     name: "exhibit"
     date: "May 2 - 26"
@@ -62,6 +62,35 @@ sections:
       src: "/assets/images/inestancrerichterscandleforsale.nevermine.jpg"
       alt: "richterscandleforsale.nevermine"
       caption: "Different versions of reality are created to open up new dimensions of meanings and challenge our usual perceptions of an object."
+
+  - container: "section"
+    name: art-crawl-announcement
+    containerFields:
+      isDisabled: false
+      isAnimated: false
+      containerId: "art-crawl-announcement"
+      containerClass: ""
+      inContainer: true
+      isNarrow: false
+      background:
+        color: ""
+        image: ""
+        isDark: false
+    image:
+      src: "/assets/images/artCrawl2024-banner.jpg"
+      alt: "2024 ART Crawl"
+      caption: ""
+    text:
+      prefix: ""
+      title: "Ines Tancré + Carolina Franzen"
+      header: "h2"
+      subtitle: "play with the conceptual realms of contemporary art, experimenting with material and visual narratives"
+      prose: |-
+        - Rockwood Lodge, Lower Level
+        - 5511 Shorncliffe Avenue
+        - ines-tance.netlify.app
+        - IG@inestancre
+        - carolinafranzen.com
 
   - container: "section"
     name: video-follow-up
@@ -141,7 +170,7 @@ sections:
     image:
       src: "/assets/images/works/thinkline/tangent_25.jpg"
       alt: "tangent 25"
-      caption: "Tangent 25, photography, mixed media on canvas"  
+      caption: "Tangent 25, photography, mixed media on canvas"
 
   - container: "section"
     name: "text"

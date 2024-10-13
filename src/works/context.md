@@ -1,4 +1,4 @@
---- 
+---
 layout: "sections.njk"
 draft: false
 navLabel: "context"
@@ -29,7 +29,43 @@ sections:
       header: "h1"
       subtitle: "A selection of works from the Context series"
       prose: ""
-  
+
+  - container: section
+    name: image
+    containerFields:
+      isDisabled: false
+      isAnimated: false
+      containerId: ""
+      containerClass: "works-image"
+      inContainer: true
+      isNarrow: true
+      background:
+        color: ""
+        image: ""
+        isDark: false
+    image:
+      src: "/assets/images/works/context/grey-words.jpg"
+      alt: "grey words"
+      caption: "Grey Words, Digital Writing"
+
+  - container: section
+    name: image
+    containerFields:
+      isDisabled: false
+      isAnimated: false
+      containerId: ""
+      containerClass: "works-image"
+      inContainer: true
+      isNarrow: true
+      background:
+        color: ""
+        image: ""
+        isDark: false
+    image:
+      src: "/assets/images/works/context/pro-con.jpg"
+      alt: "Pro+Con"
+      caption: "Pro+Con, Photography, Digital Writing"
+
   - container: section
     name: image
     containerFields:
@@ -46,7 +82,7 @@ sections:
     image:
       src: "/assets/images/works/context/beachscript.jpg"
       alt: "beachscript"
-      caption: "Beachscript, Photography, Mixed Media" 
+      caption: "Beachscript, Photography, Mixed Media"
 
   - container: section
     name: image
@@ -64,7 +100,7 @@ sections:
     image:
       src: "/assets/images/works/context/excarvation.jpg"
       alt: "excarvation"
-      caption: "Excarvation, Photography, Mixed Media" 
+      caption: "Excarvation, Photography, Mixed Media"
 
   - container: section
     name: image
@@ -82,7 +118,7 @@ sections:
     image:
       src: "/assets/images/works/context/facebook.jpg"
       alt: "facebook"
-      caption: "Facebook, Photography, Mixed Media" 
+      caption: "Facebook, Photography, Mixed Media"
 
   - container: section
     name: image
@@ -100,7 +136,7 @@ sections:
     image:
       src: "/assets/images/works/context/roadscript.jpg"
       alt: "roadscript"
-      caption: "Roadscript, Photography, Mixed Media"  
+      caption: "Roadscript, Photography, Mixed Media"
 
   - container: section
     name: see-also
@@ -124,5 +160,4 @@ sections:
         url: "/works/thinkline/"
       - title: touch
         url: "/works/touch/"
-      
 ---

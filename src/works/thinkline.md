@@ -1,4 +1,4 @@
---- 
+---
 layout: "sections.njk"
 draft: false
 navLabel: "thinkline"
@@ -29,7 +29,43 @@ sections:
       header: "h1"
       subtitle: "A selection of works from the Thinkline series"
       prose: |-
-        
+
+  - container: section
+    name: image
+    containerFields:
+      isDisabled: false
+      isAnimated: false
+      containerId: ""
+      containerClass: "works-image"
+      inContainer: true
+      isNarrow: true
+      background:
+        color: ""
+        image: ""
+        isDark: false
+    image:
+      src: "/assets/images/works/thinkline/dawn1.jpg"
+      alt: "dawn 1"
+      caption: "dawn I, photography, paper sculpture, acrylic on canvas"
+
+  - container: section
+    name: image
+    containerFields:
+      isDisabled: false
+      isAnimated: false
+      containerId: ""
+      containerClass: "works-image"
+      inContainer: true
+      isNarrow: true
+      background:
+        color: ""
+        image: ""
+        isDark: false
+    image:
+      src: "/assets/images/works/thinkline/dawn2.jpg"
+      alt: "dawn 2"
+      caption: "dawn II, photography, paper sculpture, acrylic on canvas"
+
   - container: section
     name: image
     containerFields:
@@ -46,7 +82,7 @@ sections:
     image:
       src: "/assets/images/works/thinkline/downtown.jpg"
       alt: "downtown"
-      caption: "Downtown, photography" 
+      caption: "Downtown, photography"
 
   - container: section
     name: image
@@ -64,7 +100,7 @@ sections:
     image:
       src: "/assets/images/works/thinkline/room-option-1.jpg"
       alt: "Room Option 1"
-      caption: "Room Option 1, photography" 
+      caption: "Room Option 1, photography"
 
   - container: section
     name: image
@@ -82,7 +118,7 @@ sections:
     image:
       src: "/assets/images/works/thinkline/stabilizing-shadows.jpg"
       alt: "stabilizing shadows"
-      caption: "Stabilizing Shadows, photography" 
+      caption: "Stabilizing Shadows, photography"
 
   - container: section
     name: image
@@ -100,7 +136,7 @@ sections:
     image:
       src: "/assets/images/works/thinkline/tangent_28.jpg"
       alt: "tangent 25"
-      caption: "Tangent 25, photography, mixed media on canvas" 
+      caption: "Tangent 25, photography, mixed media on canvas"
 
   - container: section
     name: see-also
@@ -118,11 +154,10 @@ sections:
     links:
       - title: 3d
         url: "/works/3d/"
-      - title: context 
+      - title: context
         url: "/works/context/"
       - title: motion
         url: "/works/motion/"
       - title: touch
         url: "/works/touch/"
-        
 ---
