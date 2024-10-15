@@ -88,7 +88,7 @@ sections:
       prose: |-
         - Rockwood Lodge, Lower Level
         - 5511 Shorncliffe Avenue
-        - ines-tance.netlify.app
+        - ines-tancre.netlify.app
         - IG@inestancre
         - carolinafranzen.com
 
