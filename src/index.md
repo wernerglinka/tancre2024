@@ -66,7 +66,7 @@ sections:
   - container: "section"
     name: art-crawl-announcement
     containerFields:
-      isDisabled: false
+      isDisabled: true
       isAnimated: false
       containerId: "art-crawl-announcement"
       containerClass: ""
@@ -91,6 +91,34 @@ sections:
         - ines-tancre.netlify.app
         - IG@inestancre
         - carolinafranzen.com
+
+  - container: "section"
+    name: new-works
+    containerFields:
+      isDisabled: false
+      isAnimated: false
+      containerId: "new-works"
+      containerClass: ""
+      inContainer: true
+      isNarrow: false
+      background:
+        color: ""
+        image: ""
+        isDark: false
+    text:
+      prefix: ""
+      title: "New Works"
+      header: "h2"
+      subtitle: "From the series MEMORIES"
+      prose: ""
+    imageOne:
+      src: "/assets/images/new-work/hamburger-bahnhof-in-berlin.jpg"
+      alt: "Hamburger Bahnhof, Berlin"
+      caption: ""
+    imageTwo:
+      src: "/assets/images/new-work/untitled.jpg"
+      alt: "Untitled"
+      caption: "Paperwork combined with 2D photography on canvas"
 
   - container: "section"
     name: video-follow-up

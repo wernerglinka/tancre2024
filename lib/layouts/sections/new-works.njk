@@ -1,0 +1,53 @@
+{#
+  New works
+  Renders a new works section with two images and a text block
+
+  params: {
+    text: {
+      prefix: string - prefix to the title (optional)
+      title: string - title of the section (optional)
+      header: string - header level, e.g. "h1", "h2", etc. (optional)
+      subtitle: string - subtitle of the section (optional)
+      prose: string - prose of the section (optional)
+    }
+    imageOne: {
+      src: string - the image source
+      alt: string - the alt text
+      caption: string - the caption (optional)
+    }
+    imageTwo: {
+      src: string - the image source
+      alt: string - the alt text
+      caption: string - the caption (optional)
+    }
+  }
+
+  YAML example:
+  text:
+    prefix: ""
+    title: ""
+    header: "h2"
+    subtitle: ""
+    prose: ""
+  imageOne:
+    src: ""
+    alt: ""
+    caption: ""
+  imageTwo:
+    src: ""
+    alt: ""
+    caption: ""
+#}
+
+{% from "sections/particles/text.njk" import text %}
+{% from "sections/particles/image.njk" import image %}
+
+<div class="new-works-wrapper section-inner">
+  <div class="new-works-text">
+    {{ text(params) }}
+  </div>
+  <div class="new-works-images">
+    {{ image({ image: params.imageOne }) }}
+    {{ image({ image: params.imageTwo }) }}
+  </div>
+</div>

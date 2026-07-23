@@ -123,6 +123,62 @@
   }
 }
 
+#new-works {
+  margin: 5rem auto;
+  max-width: var(--narrow-content-width);
+
+  .new-works-text {
+    padding: 0 var(--default-content-padding);
+
+    @media screen and (max-width: 500px) {
+      padding: 0;
+    }
+
+    h2 {
+      margin: 0;
+    }
+  }
+
+  .new-works-images {
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+
+    img {
+      display: block;
+      max-width: 100%;
+      border-radius: 1rem;
+      overflow: hidden;
+    }
+
+    .image {
+      width: 66%;
+    }
+
+    /* second image aligns right and overlaps the first image's bottom by 10rem */
+    .image:nth-child(2) {
+      align-self: flex-end;
+      margin-top: -10rem;
+      position: relative;
+      z-index: 1;
+    }
+
+    .caption {
+      margin-top: 0.5rem;
+    }
+
+    @media screen and (max-width: 500px) {
+      .image {
+        width: 100%;
+      }
+
+      .image:nth-child(2) {
+        margin-top: 2rem;
+      }
+    }
+  }
+}
+
 #statement,
 #biography {
   max-width: var(--narrow-content-width);
